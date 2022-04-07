@@ -6,7 +6,7 @@ This repository is our implementation of
 
 The core idea is to **learn weights of different views based on which view fits the prior distribution better**. The framework starts from a Bayesian aspect and we show the connection between the proposed maximum joint probability and some existing clustering methods. In the following illustration, although the 2-th view is well-structured for clustering, it is not a preferable view as it does not fit the prior distribution, *i.e.,* Gaussian distribution.   
 
-![Figure](img\framework.png)
+![Figure](img/framework.png)
 
 
 
